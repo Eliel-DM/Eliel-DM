@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliel-DM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="right">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5zeXJsc3NzenQ5ZXhsbHp6ZDZ6aGhncTNpaWw0a2FjbzF2bnU3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGMaGy5beukJ96I5Xw/giphy.webp](https://camo.githubusercontent.com/00ce4339db3aaa41e92c20346dedfea4e5cc76ceba54dbb207364082fd41c588/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785957357a65584a7363334e7a656e51355a586873624870365a445a366147686e63544e70615777306132466a627a4632626e553363795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4a474d614779356265756b4a3936493558772f67697068792e77656270)" alt="Imagem Gif" height="150" />
-</div>
 
 
 ###
