@@ -36,14 +36,18 @@
 
 ###
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/main/src/gif.gif" 
+       alt="Banner Eliel Dias Matos" 
+       width="80%" 
+       style="border-radius: 12px; margin-top: 10px;"/>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ###
 
