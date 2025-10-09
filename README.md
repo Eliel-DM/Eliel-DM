@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/main/src/gif.gif" 
        alt="Banner Eliel Dias Matos" 
        width="80%" 
