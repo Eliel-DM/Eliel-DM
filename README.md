@@ -42,7 +42,7 @@
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Eliel-DM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliel-DM&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliel-DM&layout=compact&langs_count=8&theme=dracula&cache_bust=1" height="150" alt="Top languages"/>
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake-dark.svg">
