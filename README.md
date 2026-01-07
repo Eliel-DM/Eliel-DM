@@ -1,8 +1,8 @@
 <p align="center">
 🎓 Estudante de Engenharia de Software (7º período)<br>
-💻 Analista de Suporte Computacional Júnior na Soluti ID Tech.<br>
-🚀 Apaixonado por tecnologia, desenvolvimento backend (Java | Node.js) e cibersegurança.<br>
-🔍 Sempre buscando aprender, evoluir e criar soluções que façam a diferença.
+💻 Analista de Suporte Computacional Júnior na Soluti ID Tech<br>
+🚀 Apaixonado por tecnologia, desenvolvimento backend e cibersegurança.<br>
+🔍 Sempre buscando aprender, evoluir 
 </p>
  
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](elieldiasmatos@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:elieldiasmatos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eliel-dias-matos-12030a288)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eliel.labs)
 
