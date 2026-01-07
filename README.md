@@ -1,8 +1,8 @@
 <p align="center">
-🎓 Estudante de Engenharia de Software (7º período)<br>
-💻 Analista de Suporte Computacional Júnior na Soluti ID Tech<br>
+🎓 Estudante de Engenharia de Software (7º período).<br>
+💻 Analista de Suporte Computacional Júnior na Soluti ID Tech.<br>
 🚀 Apaixonado por tecnologia, desenvolvimento backend e cibersegurança.<br>
-🔍 Sempre buscando aprender, evoluir 
+🔍 Sempre buscando aprender e evoluir! 
 </p>
  
 
