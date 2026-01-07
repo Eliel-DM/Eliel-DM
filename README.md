@@ -37,7 +37,7 @@
        style="border-radius: 10px; margin-top: -30px; margin-bottom: 20px;"/>
 </div>
 
-<div align="center">
+<div align="left">
   <br>
   <img src="https://stats-github-readme.vercel.app/api/?username=Eliel-DM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats"/>
   <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Eliel-DM&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top languages"/>
