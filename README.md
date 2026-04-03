@@ -1,54 +1,68 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Eliel%20Dias%20Matos%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
 <p align="center">
-🎓 Estudante de Engenharia de Software (7º período).<br>
-💻 Analista de Suporte Computacional Júnior na Soluti ID Tech.<br>
-🚀 Apaixonado por tecnologia, desenvolvimento backend e cibersegurança.<br>
-🔍 Sempre buscando aprender e evoluir! 
+  <a href="https://komarev.com/ghpvc/?username=Eliel-DM">
+    <img src="https://komarev.com/ghpvc/?username=Eliel-DM&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eliel-DM's profile views" />
+  </a>
 </p>
- 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
 
-<h3 align="left">Connect with me!</h3>
+## 📌 About Me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:elieldiasmatos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eliel-dias-matos-12030a288)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eliel.labs)
+Sou o Eliel Dias Matos, estudante de **Engenharia de Software (7º período)** no Centro Universitário Alfredo Nasser e atuo como **Analista de Suporte Computacional Júnior (IT Support Analyst)** na Soluti ID Tech, integrando o time de Service Desk / Help Desk.
 
----
+## 🧠 My Focus Areas
 
-<h3 align="left">My Stack`s</h3>
+- Back-end Development
+- Cybersecurity
+- Software Architecture & Logic
+- IT Support & Service Desk
+- Help Desk Analysis
 
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  
-  <img src="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/main/src/gif.gif"
-       alt="Banner Eliel Dias Matos"
-       width="30%"
-       align="right"
-       style="border-radius: 10px; margin-top: -30px; margin-bottom: 20px;"/>
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/Eliel-DM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eliel-DM&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Eliel-DM's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Eliel-DM&theme=dracula&radius=10" alt="Eliel-DM's Activity Graph" />
+</p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/Eliel-DM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eliel-DM&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+
+<p align="center"><a href="https://www.linkedin.com/in/eliel-dias-matos-12030a288/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:elieldiasmatos@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
-<div align="left">
-  <br>
-  <img src="https://stats-github-readme.vercel.app/api/?username=Eliel-DM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Eliel-DM&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top languages"/>
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eliel-DM/Eliel-DM/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<br clear="both">
