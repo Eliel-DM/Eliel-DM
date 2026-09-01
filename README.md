@@ -1,24 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Eliel%20Dias%20Matos%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Eliel%20Dias%20Matos%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Back-end%20Developer%20%7C%20PHP%20%26%20MySQL&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Eliel-DM">
     <img src="https://komarev.com/ghpvc/?username=Eliel-DM&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eliel-DM's profile views" />
   </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 
-Sou o Eliel Dias Matos, estudante de **Engenharia de Software (7º período)** no Centro Universitário Alfredo Nasser e atuo como **Analista de Suporte Computacional Júnior (IT Support Analyst)** na Soluti ID Tech, integrando o time de Service Desk / Help Desk.
+Sou o Eliel Dias Matos, estudante de Engenharia de Software com foco em desenvolvimento Back-end usando PHP.
+
+Atuo como Analista de Helpdesk Junior na Soluti. O dia a dia no suporte me dá uma visão prática para entender falhas em sistemas, analisar chamados técnicos e buscar a causa raiz dos problemas.
+
+Aproveito essa bagagem de suporte para evoluir na criação de soluções personalizadas e aprendizado de novas tecnologias.
 
 ## 🧠 My Focus Areas
 
-- Back-end Development
-- Cybersecurity
-- Software Architecture & Logic
-- IT Support & Service Desk
-- Help Desk Analysis
+- Desenvolvimento PHP
+- Bancos de Dados Relacionais
+- Arquitetura de APIs RESTful
+- Segurança & Cybersecurity
+- Suporte Técnico & Resolução de Problemas
 
 ## 📊 GitHub Stats & Trophies
 
@@ -39,21 +45,21 @@ Sou o Eliel Dias Matos, estudante de **Engenharia de Software (7º período)** n
   </a>
 </p>
 
+> ## 🚀 Back-end & Banco de Dados
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="64" height="64" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
+
 > ## Programming Languages
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px; display: inline-block;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
 
-> ## Frontend
+> ## Outras Tecnologias
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
-
-> ## Backend
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
 
 > ## Tools
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 4px; display: inline-block;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" style="margin: 4px; display: inline-block;" /></p>
 
 ## 🔗 Connect with Me
 
